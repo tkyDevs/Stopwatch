@@ -2,6 +2,8 @@
 
 This is a simple stopwatch app built with HTML, CSS, and JavaScript. It allows users to start, stop, and reset a stopwatch. The app is designed to track time in hours, minutes, seconds, and milliseconds.
 
+![Stopwatch Screenshot](img.png)
+
 ## Features
 
 - **Start Button**: Starts the stopwatch.
