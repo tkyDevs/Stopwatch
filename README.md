@@ -24,7 +24,7 @@ You can view the project live [here](#) (if hosted).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tkyDevs/stopwatch-project.git
+    git clone https://github.com/tkyDevs/Stopwatch.git
     ```
 2. Open the `index.html` file in your browser to start using the stopwatch.
 
